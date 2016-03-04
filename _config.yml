@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://abeghatak.github.io
+title: Abhijit (Abe) Ghatak
+tagline: A log of the Analytics Journey
+description: My awesome new blog-site
+paginate: 5
